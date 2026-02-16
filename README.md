@@ -1,4 +1,4 @@
-⚡ SpendGenie – AI-Powered Personal Expense Tracker
+BudgetWise – AI-Powered Personal Expense Tracker
 Overview
 
 SpendGenie is an intelligent personal expense tracking system designed to help users analyze, categorize, and predict their expenses. It integrates data processing, visualization, and predictive analytics into a single, user-friendly web interface.
